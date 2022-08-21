@@ -6,8 +6,8 @@
 #### <p align = "center">Ola 👋</p>
 
 
-##### <p align = "center">[EN] I develop ideas to turn them into realities, whatever it is.</p>
-##### <p align = "center">[ES] Desarrollo ideas para convertirlas en realidades, sea lo que sea.</p>
-##### <p align = "center">[GL] Desenvolvo ideas para convertilas en realidade, sexa o que sexa.</p>
+##### <p align = "center">[EN] I develop ideas to turn them into realities.</p>
+##### <p align = "center">[ES] Desarrollo ideas para convertirlas en realidades.</p>
+##### <p align = "center">[GL] Desenvolvo ideas para convertilas en realidade.</p>
 
 
