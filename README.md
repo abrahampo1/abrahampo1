@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abraham</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahampo1&label=Profile%20views&color=0e75b6&style=flat" alt="abrahampo1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahampo1&theme=darkhub" alt="abrahampo1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrahampo1&theme=darkhub&column=8" alt="abrahampo1" /></a> </p>
 
 <div> <a href="https://github.com/abrahampo1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
